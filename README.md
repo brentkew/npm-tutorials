@@ -33,3 +33,4 @@ NPM is bundled with Node.js. To use it, you must install Node.js.
    ```bash
    node -v
    npm -v
+   ```
